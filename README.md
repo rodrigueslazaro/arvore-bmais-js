@@ -1,3 +1,7 @@
+# Árvore B+ Implementada em JavaScript
+
+Trabalho desenvolvido para a disciplina de Banco de Dados II com @patriciacre.
+
 # Execução
 
 Para executar o programa utilizar NodeJS com versão igual
