@@ -1,6 +1,6 @@
 # Árvore B+ Implementada em JavaScript
 
-Trabalho desenvolvido para a disciplina de Banco de Dados II com @patriciacre.
+Trabalho desenvolvido para a disciplina de Banco de Dados II com github.com/patriciacre.
 
 # Execução
 
